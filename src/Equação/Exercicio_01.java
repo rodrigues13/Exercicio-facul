@@ -14,6 +14,6 @@ public class Exercicio_01 {
           
           x = (a*b) / 2;
           System.out.println("Valor da area do triangulo é: "+ x );
-    
+          System.out.println("Teste");
 }
 }
